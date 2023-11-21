@@ -1,1 +1,1 @@
-# ISRO-Centers-JS-Proj-
+# html-css-js-project-boilerplate
